@@ -1,0 +1,2 @@
+Tareas: 
+Testear Alta de Usuario (para espectador y artista)
