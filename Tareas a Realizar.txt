@@ -1,2 +1,5 @@
-Tareas: 
-Testear Alta de Usuario (para espectador y artista)
+Tareas Para Hacer 
+Reyes:
+-Testear Alta de Usuario (para espectador 2 y artista 3)
+-Investigar git (consola o github Desktop)
+NOTA: TODA TAREA DEBERA SER DOCUMENTADA (PDF CON CAPTURA DE PANTALLA)
